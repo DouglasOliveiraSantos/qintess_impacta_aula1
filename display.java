@@ -1,5 +1,8 @@
 public class display {
     public static void main(String[] args) {
-        System.out.println("Olá Mundo, meus concursados!");
+        for (i = 1; i<=10; i++){
+            
+        }
+        System.out.println(i);
     }
 }
